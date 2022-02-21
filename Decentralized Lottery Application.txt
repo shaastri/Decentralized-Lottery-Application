@@ -1,0 +1,70 @@
+Rules involved in developing Decentralized Lottery Application:
+
+--> We have to select one manager [shastri].
+
+Manager's Public Address:0x5B38Da6a701c568545dCfcB03FcB875f56beddC4
+
+--> We have to check the participants whether they transferred money for purchasing the lottery ticket.
+
+--> If the money tranfer is confirmed then we need to list them as participants of our Decentralized Lottery Application.
+
+--> Participant:1 -[Albin Benny]
+
+Participant-1 Public Address:0xAb8483F64d9C6d1EcF9b849Ae677dD3315835cb2
+
+--> Participant:2 -[Manoj]
+
+Participant-2 Public Address:0x4B20993Bc481177ec7E8f571ceCaE8A9e22C02db
+
+--> Participant:3 -[Babu Ramakrishna]
+
+Participant-3 Public Address:0x78731D3Ca6b7E34aC0F824c42a7cC18A495cabaB
+
+--> Participant:4 -[Niteesh Reddy]
+
+Participant-4 Public Address:0x617F2E2fD72FD9D5503197092aC168c91465E7f2
+
+--> Participant:5 -[Ravinder Reddy]
+
+Participant-5 Public Address:0x17F6AD8Ef982297579C203069C1DbfFE4348c372
+
+Rules to be set for Manager:
+
+--> Collect 1 Ether from the participants for alloting the lottery ticket.
+
+--> The manager has to check whether the number of pariticiants is greator than or equal to 5. 
+
+--> Then only he has to announce the winner of the Lottery Application.
+
+--> All the ethers that manager is collecting should be credited to the contract address of the decentralized lottery application.
+
+--> The winner should get all the contract balance which is credited by the manager.
+
+Rules to be set for Participants:
+
+--> All the pariticipants must have a wallet [account].
+
+--> A participant can transfer ether more than one time but he has to transfer only 1 ether at a time.
+
+--> As the participant will transfer ether, immediately the participants address will be registered in the lottery application.
+
+--> Manager will have full control over the lottery application.
+
+--> After announcing the winner of lottery, manager can reset the contract.
+
+SDLC - Software Development Life Cycle 5 stages
+
+--> Requirement Phase: Client will provide requirements of the project.
+
+--> Analysis Phase: The team will assess whether the requirements is feasible or not.
+
+--> Designing Phase: The designing team will design a prototype.
+
+--> Constructing Phase: The team will write the code for developing the project. Freshers or below 5 years experience guys.
+
+--> Deployment Phase: The team is going the test the project.
+testing domain.unit test, Freshers or below 5 years experience guys.
+
+
+
+
